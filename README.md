@@ -1,2 +1,2 @@
 # cl2
-Challenge 2 (GT)
+Challenge 2 (GT) - updated
